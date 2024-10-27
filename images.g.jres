@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAzAwAAPD/APDNzQAAv/0AL93cDPDf/fAt3tz9H/H/H93e3P0REfEf3d3c/RER8R8tzd0dEfH/Hy3d3RERv/0f0d0d8RG//fAREREf8f/7AP/d/R/x//8A8P3/Ef///wAA/9v/HxH/AADw3Q///w8AAAD/DwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Boss"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
